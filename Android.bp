@@ -1,0 +1,17 @@
+dex_import {
+        name: "moto-ims-ext",
+        owner: "motorola",
+        jars: ["moto-ims-ext.jar"],
+}
+
+dex_import {
+        name: "moto-telephony",
+        owner: "motorola",
+        jars: ["moto-telephony.jar"],
+}
+
+dex_import {
+        name: "qcrilhook",
+        owner: "motorola",
+        jars: ["qcrilhook.jar"],
+}
